@@ -1,0 +1,2 @@
+cd C:\Users\ekanniya\Workspace_Selenium\Selenium_Training_June2023\sampleValeoTest
+mvn test
