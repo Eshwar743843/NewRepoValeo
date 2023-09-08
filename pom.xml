@@ -13,8 +13,7 @@
 					<compilerVersion>17</compilerVersion>
 					<source>17</source>
 					<target>17</target>
-					<testSource>17</testSource>
-					<testTarget>17</testTarget>
+					
 				</configuration>
 			</plugin>
 			<plugin>
